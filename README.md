@@ -21,7 +21,8 @@
 
 ## 📝 Live Preview 
 
-- [Shorts Summary](https://dmm.studio/github/rocketseat/events/next-level-week/2023/nlw-ai/explorer/foundations)
+- [Shorts Summary](https://events-nlw-ai-foundation.vercel.app/) | [Main repository](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2023/nlw-ai/explorer/foundations)
+- Note: the project works better with shorts in the English language that have a content to be summarised, like a story.
 
 <br/>
 
